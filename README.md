@@ -5,9 +5,9 @@ To perform exploratory data analysis and build an interactive Power BI dashboard
 for actionable business insights.
 
 ## Project Structure
-- data/: Raw dataset used for analysis
-- notebooks/: Jupyter notebook for EDA
-- dashboard/: Power BI dashboard file
+- data: Raw dataset used for analysis
+- notebooks: Jupyter notebook for EDA
+- dashboard: Power BI dashboard file
   
 ## Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
