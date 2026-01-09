@@ -8,7 +8,7 @@ for actionable business insights.
 - data/: Raw dataset used for analysis
 - notebooks/: Jupyter notebook for EDA
 - dashboard/: Power BI dashboard file
-- 
+  
 ## Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Power BI
