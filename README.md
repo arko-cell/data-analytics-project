@@ -12,7 +12,7 @@ for actionable business insights.
 ## Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Power BI
-- 
+   
 ## Workflow
 1. Data understanding and cleaning
 2. Exploratory Data Analysis (EDA)
